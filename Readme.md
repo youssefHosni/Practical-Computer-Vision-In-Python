@@ -1,0 +1,1 @@
+This will be a series of projects of computer vision projects that will cover most of the computer vision tasks and applications. This is ongoing series of articles on medium that will be updated weekly 
