@@ -16,3 +16,19 @@ Opposed to the Kalman filter the particle filter can model non-linear object mot
 
 The cycle of a particle filter starts with the general probability densities. First, the filter predicts the next state from the provided state transition (e.g. motion model), then if applicable, the noisy measurement information is incorporated in the correction phase and the cycle is repeated after that.
 
+## Methodology
+
+* Loading & Displaying video frames using OpenCV
+* Initializing a Particle Filter
+* Moving Particles According to Their Velocity State
+* Prevent Particles from Falling Off the Edges
+* Measure Each Particle’s Quality
+* Assign Weights to the Particles
+* Resample Particles According to Their Weights
+* Fuzz the Particles
+
+## Final Output
+
+
+
+
