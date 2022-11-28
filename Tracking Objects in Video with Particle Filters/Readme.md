@@ -29,7 +29,8 @@ The cycle of a particle filter starts with the general probability densities. Fi
 
 ## Final Output
 
-The final output will be particle cloud surround the tracked object which in this case is the person's elbows
+The final output will be particle cloud surround the tracked object which in this case is the person's elbows as shown below:
+
 ![Untitled video - Made with Clipchamp](https://user-images.githubusercontent.com/72076328/204291399-7faf8c6f-e516-4fa3-b8f4-dd6e7aaa6df9.gif)
 
 
