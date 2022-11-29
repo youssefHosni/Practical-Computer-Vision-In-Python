@@ -20,7 +20,7 @@ This will be a series of computer vision projects that will cover most of the co
 
 ### 1.5. Pose Estimation Projects
 
-## 2. Video Analysis
+## [2. Video Analysis](https://github.com/youssefHosni/Practical-Computer-Vision-In-Python/tree/main/Video%20Analysis)
 
 ### 2.1. Object Tracking Projects
 * [Tracking Object in Videos Using Particle Filters](https://github.com/youssefHosni/Practical-Computer-Vision-In-Python/tree/main/Tracking%20Objects%20in%20Video%20with%20Particle%20Filters) [[Code](https://github.com/youssefHosni/Practical-Computer-Vision-In-Python/tree/main/Tracking%20Objects%20in%20Video%20with%20Particle%20Filters) | [Article](https://pub.towardsai.net/object-tracking-with-particle-filters-in-python-77a61bb4fd91?sk=a0be61dc1c3609cbc6d7515d306355f3)]
