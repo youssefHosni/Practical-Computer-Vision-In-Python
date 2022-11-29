@@ -8,7 +8,9 @@ This will be a series of computer vision projects that will cover most of the co
 
 ### 1.1. Image Classification Projects
 
-## 1.2. Object Identification Projects
+
+
+### 1.2. Object Identification Projects
 
 ### 1.3. Object Detection and Localization Projects
 *  [Detecting Car Plates Number using Python]() [[Code]() | [Article]() ]
