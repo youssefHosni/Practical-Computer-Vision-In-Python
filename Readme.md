@@ -1,9 +1,8 @@
 # Practical Computer Vision In Python #
+Computer vision projects that covers most of the computer vision applications and tasks.
 
 This will be a series of computer vision projects that will cover most of the computer vision tasks and applications as dissced in this article [Computer Vision Tasks and Applications](https://pub.towardsai.net/overview-of-the-computer-vision-tasks-applications-647f63e66e9f?sk=c91f0f20aa48a82fd710744258d82d3d).
  
- Thi is an ongoing series of articles on medium that will be updated on a weekly. Here are the task categories:
-
 ## 1. Content Recognition
 
 ### 1.1. Image Classification Projects
