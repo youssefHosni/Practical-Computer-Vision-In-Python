@@ -6,7 +6,7 @@ This will be a series of computer vision projects that will cover most of the co
 ## 1. Content Recognition
 
 ### 1.1. Image Classification Projects
-
+* [Multiclass Image Classifcation Project](https://github.com/youssefHosni/Practical-Computer-Vision-In-Python/blob/main/image-classification/Multiclass_Image_Classification_Project.ipynb)
 
 
 ### 1.2. Object Identification Projects
