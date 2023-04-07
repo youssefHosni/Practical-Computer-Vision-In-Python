@@ -35,6 +35,6 @@ This will be a series of computer vision projects that will cover most of the co
 
 ## 5. Generative Adversial Networks 
 
-[Build and Deploy a GAN Streamlit App on Heroku]()
+* [Build and Deploy a GAN Streamlit App on Heroku]()
 
 
